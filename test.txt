@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Keep moving,Keep dreaming.
 
 Nothing is impossible for a willing heart!
+=======
+Keep Moving£¬Keep Dreaming.
+Nothing is impossible for a willing heart.
+>>>>>>> master
